@@ -1,38 +1,69 @@
 <div align="center">
-👋 Olá, eu sou Gabriel Dias!
-🚀 Estudante de Desenvolvimento de Softwares com foco em Back-end
-💻 Apaixonado por NodeJS, bancos de dados e DevOps
-📚 Aprendendo diariamente na Alura
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedinwww.linkedin.com/in/gabriel-henrique-dos-santos-dias://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white ✨ Sobre Mim
+# 👋 Olá, eu sou Gabriel Dias!
 
-Sou entusiasta do desenvolvimento back-end, atualmente focado em NodeJS e tecnologias relacionadas.
-Busco desafios e aprendizados, especialmente em DevOps e bancos de dados, para criar sistemas robustos e escaláveis.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-henrique-dos-santos-dias-7b5b61346)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dias-Gabriel-Dev)
 
-📚 O que estou aprendendo
-NodeJS & Express
+Estudante de Desenvolvimento de Softwares com foco em **Back-end**  
+Apaixonado por NodeJS, bancos de dados e DevOps  
+Aprendendo diariamente na [Alura](https://www.alura.com.br/)
 
-JWT & OAuth
+</div>
 
-NoSQL (MongoDB)
+---
 
-SQL (PostgreSQL, MySQL)
+## ✨ Sobre Mim
 
-DevOps (práticas e automações)
+Sou entusiasta do desenvolvimento back-end, atualmente focado em NodeJS e tecnologias relacionadas.  
+Busco desafios e aprendizados, especialmente em back-end e bancos de dados, para criar sistemas robustos e escaláveis.
 
-🛠️ Tecnologias e Ferramentas
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=whiteields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColorimg.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColorimg.shields.io/badge/OAuth-0076D6?style=for-the-badge&logo=oauth&logoColor=whiteields.io/badge/Docker-2496ED?style=for-the-badge&logo 🎯 Áreas de Interesse
+---
 
-Back-end
+## 📚 O que estou aprendendo
 
-DevOps
+- NodeJS & Express
+- JWT & OAuth
+- NoSQL (MongoDB)
+- SQL (PostgreSQL, MySQL)
+- DevOps (práticas e automações)
 
-Banco de Dados
+---
 
-📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dias-Gabriel-Dev&show_icons=true&theme=radical"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dias-Gabriel-Dev&layout=compact&langs_count=7&theme=radical"/> </div>
+## 🛠️ Tecnologias e Ferramentas
+
+[![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![OAuth](https://img.shields.io/badge/OAuth-76c5f0?style=for-the-badge&logo=oauth&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
+
+---
+
+## 🎯 Áreas de Interesse
+
+- Back-end
+- DevOps
+- Banco de Dados
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-✨ Sempre aprendendo, sempre evoluindo!
+
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dias-Gabriel-Dev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dias-Gabriel-Dev&layout=compact&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+✨ Sempre aprendendo, sempre evoluindo!  
 Vamos construir algo incrível juntos! 🚀
 
 </div>
